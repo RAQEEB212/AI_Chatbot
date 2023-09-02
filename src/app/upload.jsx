@@ -20,7 +20,7 @@ function UploadButton() {
         <div >
             <button
                 onClick={handleFileUpload}
-                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                className="bg-blue-500 hover:bg-blue-700 text-white rounded-full font-bold py-2 px-4 rounded"
             >
                 {/*<span className="mr-2">Upload File</span>*/}
                 <svg
